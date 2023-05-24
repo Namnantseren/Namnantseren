@@ -4,6 +4,7 @@
 # 💫 About Me:
 Welcome to my GitHub profile!<br>
 🌍 A passionate Fullstack developer from Mongolia <br>
+📚 Just Graduated Pinecone Academy<br>
 📫 How to reach me namka1472@gmail.com
 
 ## 🌐 Socials:

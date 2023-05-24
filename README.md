@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!<br>
 🌍 A passionate Fullstack developer from Mongolia <br>
 📫 How to reach me namka1472@gmail.com
 

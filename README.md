@@ -1,6 +1,7 @@
 # 💫 About Me:
 Welcome to my GitHub profile!
-
+🌍 A passionate Fullstack developer from Mongolia
+📫 How to reach me namka1472@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/🔥Namka🔥#5991) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antiFdote) 

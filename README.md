@@ -1,3 +1,6 @@
+# 🔥 I'm Namnantseren
+<img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls"/>
+
 # 💫 About Me:
 Welcome to my GitHub profile!<br>
 🌍 A passionate Fullstack developer from Mongolia <br>

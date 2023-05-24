@@ -1,5 +1,5 @@
 # 🔥 I'm Namnantseren
-<img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="full"/>
+<img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="100%"/>
 
 # 💫 About Me:
 Welcome to my GitHub profile!<br>

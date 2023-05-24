@@ -1,4 +1,4 @@
-# 🔥 Hi, I'm Namnantseren
+# 🔥 Hi, I'm Namka.
 <img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="100%"/>
 
 # 💫 About Me:

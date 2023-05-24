@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome to my GitHub profile!
-🌍 A passionate Fullstack developer from Mongolia
+🌍 A passionate Fullstack developer from Mongolia <br>
 📫 How to reach me namka1472@gmail.com
 
 ## 🌐 Socials:
